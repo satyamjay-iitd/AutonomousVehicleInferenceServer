@@ -4,3 +4,5 @@
 /Localization/ORBSLAM
 /Common/imgs
 /Localization/temp
+/Localization/custom_vocab.txt
+/Localization/ORBvoc.txt
